@@ -48,7 +48,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
 │ https://www.facebook.com/nk.naiem.khan.641816
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ https://m.me/61580432392618?source=qr_link_share
+│ https://m.me/nk.naiem.khan.641816
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 │ wa.me/+8801908143017
 │
