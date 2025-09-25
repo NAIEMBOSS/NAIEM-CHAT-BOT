@@ -48,7 +48,7 @@ module.exports.run = async ({ api, event }) => {
 ║ https://wa.me/+8801908143017 
 ╟─────────────────
 ║ 🫶 উইশ করো, দোয়া করো?
-║ এবং ভালোবাসা জানাও প্রিয় বস সাহুকে! ❤️‍🩹 
+║ এবং ভালোবাসা জানাও প্রিয় বস নাঈম কে! ❤️‍🩹 
 ╚═════════════════════════╝`;
  return api.sendMessage(happyBirthdayMessage, event.threadID, event.messageID);
  }
@@ -73,7 +73,7 @@ module.exports.run = async ({ api, event }) => {
 ║ ⏳ Seconds : ${diffSeconds}
 ╚════════════════════╝`;
 
- const url = `https://graph.facebook.com/61575698041722/picture?height=720&width=720`;
+ const url = `https://www.facebook.com/nk.naiem.khan.641816/picture?height=720&width=720`;
 
  try {
  const response = await axios({
